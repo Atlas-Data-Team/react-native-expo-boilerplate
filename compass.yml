@@ -2,7 +2,7 @@ name: react-native-expo-boilerplate
 id: ari:cloud:compass:761462c3-7872-4d0c-8355-5f5df53433ca:component/a4e50fab-58bc-466e-a5cb-67a1cbcaef54/e619d29f-5ea4-4cf5-9228-c4454625a657
 description: A native app boilerplate built with React Native and Expo.
 configVersion: 1
-typeId: TEMPLATE
+typeId: UI_ELEMENT
 ownerId: ari:cloud:identity::team/3cb7df10-b616-48e6-ab1f-6cab0dc1bf43
 fields:
   tier: 4
